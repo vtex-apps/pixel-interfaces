@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "pixel-interfaces",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "title": "Pixel Interfaces",
   "description": "Pixel Interfaces",
   "builders": {
