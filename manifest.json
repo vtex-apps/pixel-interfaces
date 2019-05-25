@@ -1,0 +1,13 @@
+{
+  "vendor": "vtex",
+  "name": "pixel-interfaces",
+  "version": "0.0.0",
+  "title": "Pixel Interfaces",
+  "description": "Pixel Interfaces",
+  "builders": {
+    "store": "0.x"
+  },
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  }
+}
